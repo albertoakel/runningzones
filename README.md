@@ -1,3 +1,5 @@
+#suite by determination pace zones
+
 # Functional Threshold Pace (FTPa)
 These two options are common methods to estimate the lactate
 threshold (LT) or threshold pace, especially for runners who want

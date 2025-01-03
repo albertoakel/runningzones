@@ -1,4 +1,4 @@
-#suite by determination pace zones
+# Pace Zones
 
 # Functional Threshold Pace (FTPa)
 These two options are common methods to estimate the lactate
@@ -21,3 +21,8 @@ Which one to choose?
 20-Minute Run: A good option if you're already used to running at high intensity and can maintain a strong pace in a controlled manner. The 5% adjustment compensates for the shorter test duration.
 30-Minute Run: Ideal for those who prefer a more straightforward method and are willing to sustain a strong pace for a longer period.
 Both methods provide a good estimate and can be used to guide interval training or effort-based zones. Have you tried either of these methods?
+
+# Vdot By Jack Daniel
+
+## 1) Run for 3 km
+Run for 3 km to death. get the time.
